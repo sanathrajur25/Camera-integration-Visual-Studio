@@ -1,0 +1,21 @@
+﻿  CameraTrial2Dlg.cpp
+D:\Intership\Renovus\Camera Integration\CameraTrial2\CameraTrial2\CameraTrial2Dlg.cpp(473,104): warning C4244: 'argument': conversion from 'bo_uint64' to 'int', possible loss of data
+D:\Intership\Renovus\Camera Integration\CameraTrial2\CameraTrial2\CameraTrial2Dlg.cpp(473,76): warning C4244: 'argument': conversion from 'bo_uint64' to 'int', possible loss of data
+  CameraTrial2.vcxproj -> D:\Intership\Renovus\Camera Integration\CameraTrial2\x64\Debug\CameraTrial2.exe
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\bgapi2_genicam.dll
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\bgapi2_gige.cti
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\bgapi2_img.dll
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\bgapi2_usb.cti
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\bopfdrvctl.dll
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\bsysgige.xml
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\bsysusb.xml
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\GCBase_MD_VC120_v3_0_baumer.dll
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\GenApi_MD_VC120_v3_0_baumer.dll
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\log4cpp_MD_VC120_v3_0_baumer.dll
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\Log_MD_VC120_v3_0_baumer.dll
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\MathParser_MD_VC120_v3_0_baumer.dll
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\msvcp120.dll
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\msvcr120.dll
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\NodeMapData_MD_VC120_v3_0_baumer.dll
+  C:\Program Files\Baumer\Baumer GAPI SDK\Components\Bin\x64\XmlParser_MD_VC120_v3_0_baumer.dll
+         16 file(s) copied.
